@@ -1,0 +1,23 @@
+{
+    "amsterdam": "암스테르담",
+    "brazil": "브라질",
+    "dubai": "두바이",
+    "eu_central": "중앙유럽",
+    "eu_west": "서유럽",
+    "europe": "유럽",
+    "frankfurt": "프랑크푸르트",
+    "hongkong": "홍콩",
+    "india": "인도",
+    "japan": "일본",
+    "london": "런던",
+    "russia": "러시아",
+    "singapore": "싱가포르",
+    "southafrica": "남아프리카",
+    "south_korea": "대한민국",
+    "us_central": "미국 중부",
+    "us_east": "미국 동부",
+    "us_south": "미국 남부",
+    "vip_amsterdam": "VIP 암스테르담",
+    "vip_us_east": "VIP 미국 동부",
+    "vip_us_west": "VIP 미국 서부"
+}

@@ -1,0 +1,10 @@
+{
+    "none": "제한 없음",
+    "low": "이메일 인증이 완료된 Discord 계정이어야 해요.",
+    "medium": "또한, Discord에 가입한 지 5분이 지나야 돼요.",
+    "high": "또한, 이 서버의 멤버가 된 지 10분이 지나야 돼요.",
+    "extreme": "휴대폰 인증이 완료된 Discord 계정이어야 해요.",
+    "table_flip": "또한, 이 서버의 멤버가 된 지 10분이 지나야 돼요.",
+    "double_table_flip": "휴대폰 인증이 완료된 Discord 계정이어야 해요.",
+    "very_high": "휴대폰 인증이 완료된 Discord 계정이어야 해요."
+}

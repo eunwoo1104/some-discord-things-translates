@@ -1,0 +1,10 @@
+{
+    "none": "없음",
+    "low": "낮음",
+    "medium": "중간",
+    "high": "높음",
+    "extreme": "매우 높음",
+    "table_flip": "높음",
+    "double_table_flip": "매우 높음",
+    "very_high": "매우 높음"
+}
